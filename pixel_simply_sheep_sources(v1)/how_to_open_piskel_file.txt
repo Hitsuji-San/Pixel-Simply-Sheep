@@ -1,0 +1,5 @@
+MINI TUTORIAL:
+
+1- Go to site Piskel (https://www.piskelapp.com/)
+2- Create Sprite
+3- Go to "IMPORT" icone and click "Browse .piskel files" for open the PISKEL file.
